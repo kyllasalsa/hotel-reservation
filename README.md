@@ -3,7 +3,7 @@
 layanan ini bertanggung jawab untuk mengelola data pelanggan serta mengkonsumsi data dari layanan BookingService untuk menampilkan histori booking per pelanggan.
 
 ## Base URL
-http://localhost:8001/api
+http://localhost:8001
 
 ---
 
