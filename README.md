@@ -4,7 +4,7 @@ layanan ini bertanggung jawab untuk mengelola data ruangan (room) serta mengkons
 
 ## Base URL
 
-http://localhost:8002/api
+http://localhost:8002
 
 ---
 
